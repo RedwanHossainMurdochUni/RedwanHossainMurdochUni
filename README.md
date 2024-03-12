@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedwanHossain
-- 👀 I’m interested in Ai engine and 
+- 👀 I’m interested in Ai engine and software engineering 
 - 🌱 I’m currently learning Computer science and AI in Murdoch Uni 
 - 💞️ I’m looking to collaborate on Building an Ai generated socialiing app 
 - 📫 How to reach me, email @ redwanhossain2001@gmail.com
